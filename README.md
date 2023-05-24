@@ -23,8 +23,8 @@
 ## Output:
 ![image](https://github.com/Hemasonica774/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118361409/9745ffbd-7e4b-4051-bd8d-a6b033b0975d)
 
-### Name:P HEMASONICA
-### Register Number:212222230048
+### Name:MUKESH P
+### Register Number:212222240068
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
